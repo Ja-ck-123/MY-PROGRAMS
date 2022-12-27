@@ -4,3 +4,9 @@ If you want it, just download it
 And I hope you like it
 And please (I am not begging) give me some credit 🥺
 LOL
+
+And for it to work, you need,
+Ursina
+Pygame
+
+And yeah
